@@ -1,1 +1,1 @@
-# nlp-further-instruct-tuning--stanford-alpaca
+# nlp-further-instruct-tuning-stanford-alpaca
