@@ -4,6 +4,8 @@ This repo works on the top of https://github.com/tloen/alpaca-lora reproducing t
 We provide an Instruct model of similar quality to `text-davinci-003` that can run [on a Raspberry Pi](https://twitter.com/miolini/status/1634982361757790209) (for research),
 and the code can be easily extended to the `13b`, `30b`, and `65b` models.
 
+### Here's [a colab notebook](https://colab.research.google.com/drive/156_XkkJc4-jFXebBg1VqETIi8VHhjFUY?usp=sharing) to see the difference between before and after fine tune on the HK CVS FQA datasets
+
 ### Setup
 
 ```
