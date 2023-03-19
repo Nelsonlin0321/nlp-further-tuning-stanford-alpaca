@@ -40,7 +40,7 @@ model = LlamaForCausalLM.from_pretrained(
 )
 
 ### Load model after fine tuned on our datasets
-model = PeftModel.from_pretrained(model, "Nelsonlin0321/alpaca-lora-7b-tuned-on-hk-csv-fqa_causal_lm")
+model = PeftModel.from_pretrained(model, "Nelsonlin0321/alpaca-lora-7b-tuned-on-hk-cvs-fqa")
 
 tokenizer = LlamaTokenizer.from_pretrained("decapoda-research/llama-7b-hf")
 tokenizer.pad_token_id = 0
