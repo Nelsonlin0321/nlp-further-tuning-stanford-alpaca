@@ -1,0 +1,112 @@
+[
+    {
+        "instruction": "Who are eligible to be disbursed with the first-instalment voucher on 16 April?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "All eligible people who have successfully registered under 2022 CVS, regardless of which stored value facility (\u201cSVF\u201d) they have chosen to receive consumption vouchers, will automatically receive the relevant voucher via the same SVF account on 16 April."
+    },
+    {
+        "instruction": "Who are eligible to be disbursed with the first-instalment voucher of $3,000 on 16 April?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "All eligible people who have successfully registered under 2022 CVS and met the eligibility criteria (B)(i) or (B)(ii) of 2022 (Phase II) CVS will receive the first-instalment voucher of $3,000 on 16 April."
+    },
+    {
+        "instruction": "Who are eligible to be disbursed with the first-instalment voucher of $1,500 on 16 April?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "All eligible people who have successfully registered under 2022 CVS and met the eligibility criteria (B)(iii) of 2022 (Phase II) CVS will receive the first-instalment voucher of $1,500 on 16 April."
+    },
+    {
+        "instruction": "Do eligible people need to register afresh in order to receive the first-instalment voucher on 16 April?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "We will disburse the relevant consumption voucher directly to the registered SVF account of eligible people (registrants using Octopus need to tap their cards for collection) based on the registration information of 2022 CVS."
+    },
+    {
+        "instruction": "Can people receive the first-instalment voucher under 2023 CVS on 16 April if they have not registered under 2022 CVS?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "People who did not register under 2022 CVS will not be disbursed with the first-instalment voucher under 2023 CVS on 16 April."
+    },
+    {
+        "instruction": "Can eligible people who have not registered under 2022 (Phase II) CVS last year register now to receive the consumption voucher which has already been disbursed under 2022 CVS?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "The registration period of 2022 (Phase II) CVS has ended."
+    },
+    {
+        "instruction": "Do people who receive consumption vouchers via Octopus 3 need to have collected all the vouchers disbursed under 2022 (Phase II) CVS by tapping their cards?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "Whether or not people have tapped their cards to collect all the consumption vouchers disbursed under 2022 (Phase II) CVS will not affect the Government\u2019s arrangement to disburse the first-instalment voucher under 2023 CVS to them on 16 April."
+    },
+    {
+        "instruction": "Can recipients of the Guangdong Scheme (\u201cGDS\u201d) and Fujian Scheme (\u201cFJS\u201d) receive the benefit?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "Recipients of the GDS and FJS who have successfully registered under 2022 CVS and their registered SVF accounts are not malfunctioned (including relevant Octopus card not returned or lost), do not need to go through any procedure and can receive the first-instalment voucher disbursed under 2023 CVS directly via the concerned account on 16 April."
+    },
+    {
+        "instruction": "Can people receive the benefit if they are staying overseas temporarily or serving sentences abroad?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "If people who have successfully registered under 2022 CVS are staying overseas temporarily or serving sentences abroad, they do not need to go through any procedure if their SVF accounts are not malfunctioned (including relevant Octopus card not returned or lost)."
+    },
+    {
+        "instruction": "Can registrants with special needs continue to collect the consumption voucher through their agents?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "If the relevant registrant is a recipient of the Comprehensive Social Security Assistance or Social Security Allowance payments under the existing appointee system of the Social Welfare Department (\u201cSWD\u201d) and his/her agent is an \u201cauthorised representative\u201d (\u201cAR\u201d) appointed by the Director of Social Welfare as a guardian/appointee/agent, we will disburse the first-instalment voucher under 2023 CVS to the AR concerned on 16 April according to the latest information provided by the SWD and the registrant or his/her AR is not required to register again."
+    },
+    {
+        "instruction": "Can eligible people who have passed away receive the first- instalment voucher on 16 April?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "Consumption voucher will not be disbursed on 16 April to eligible people who have passed away after successfully registered under 2022 CVS."
+    },
+    {
+        "instruction": "What is the timetable for the disbursement of first- instalment and second-instalment vouchers?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "For those who use AlipayHK, BoC Pay, PayMe from HSBC, Tap & Go or WeChat Pay HK to receive consumption vouchers, they will receive the first-instalment voucher of $3,000 or 5 $1,500 on 16 April."
+    },
+    {
+        "instruction": "What is the scope of coverage for the 2023 voucher?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "The voucher disbursed under 2023 CVS will have the same scope of coverage as that of the vouchers disbursed under 2022 CVS."
+    },
+    {
+        "instruction": "Is there a validity period for the first-instalment and second- instalment voucher received via the five e-wallets under 2023 CVS?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "The first-instalment and second-instalment vouchers disbursed 6 via the five e-wallets under 2023 CVS on 16 April and 16 July will be valid until 31 October 2023 and 31 January 2024 respectively."
+    },
+    {
+        "instruction": "Is there still the need to calculate the total \u201celigible spending\u201d if people use Octopus to collect their first-instalment voucher on 16 April?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "People who collect consumption vouchers via Octopus on 16 April will receive the first-instalment voucher of $3,000 or $1,500 in one go on 16 April."
+    },
+    {
+        "instruction": "Can people change their SVF to receive the first-instalment voucher disbursed under 2023 CVS on 16 April?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "In order to disburse the voucher the soonest possible under 2023 CVS, eligible people must use the same SVF registered under 2022 CVS for receiving the first-instalment voucher disbursed on 16 April."
+    },
+    {
+        "instruction": "What should people do if they are not sure if the SVF accounts registered under 2022 CVS are still valid?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "In general, unless people cancel the SVF account on their own accord (e."
+    },
+    {
+        "instruction": "What should people do if they have cancelled their SVF account registered for receiving 2022 (Phase II) consumption voucher, lost their Octopus card, or if their accounts have become invalid?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "If people who have used AlipayHK, BoC Pay, PayMe from HSBC, Tap & Go or WeChat Pay HK to collect consumption vouchers in 2022 have already removed the relevant mobile app, or cancelled the e-wallet account, they can first try to re-install the relevant mobile app and log into their original account again by inputting the relevant information such as their account number and password."
+    },
+    {
+        "instruction": "Do people need to provide the registration reference number (\u201cRRN\u201d) under 2022 CVS when they amend their SVF account through the designated website?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "People who wish to amend their SVF account through the designated website are required to provide their RRN under 2022 CVS for verification of identity."
+    },
+    {
+        "instruction": "for the addresses of centres). After simple authentication of identity, they will receive the RRN through SMS. Q20 Can people who have registered 2022 CVS using Octopus switch to use JoyYou card to receive the first-instalment voucher under 2023 CVS on 16 April?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "People who have registered under 2022 CVS using Octopus may continue to use the registered Octopus card to receive the voucher if their registered Octopus card is still valid."
+    },
+    {
+        "instruction": "Is it necessary for registrant who has transferred their physical Octopus card registered under 2022 CVS to Octopus card on Mobile to update their registration record in order to receive the first-instalment voucher disbursed 10 under 2023 CVS on 16 April?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "Relevant people do not need to update the registration record."
+    },
+    {
+        "instruction": "How can people update their invalid/lost SVF account if they have no knowledge on Internet?",
+        "input": "This is the about 2023 Consumption Voucher Scheme (\u201cCVS\u201d)",
+        "output": "People who have no knowledge on Internet can visit one of the temporary service centres from 11 to 29 March to amend their SVF account information with assistance of the staff: \uf09f 34/F, Revenue Tower, 5 Gloucester Road, Wan Chai; \uf09f Units 1301, AT Tower, 180 Electric Road, North Point, Hong Kong; \uf09f Unit 1834-1838, 18/F, Pioneer Centre, 750 Nathan Road, Mong Kok; \uf09f Unit 1105, 11/F, Kwun Tong View, 410 Kwun Tong Road, Kwun Tong; \uf09f 9/F Chinachem Tsuen Wan Plaza, 455 Castle Peak Road, Tsuen Wan; \uf09f Room 110, Butterfly Bay Community Centre, 1 Wu Chui Road, Tuen Mun; \uf09f Unit 2310, 23/F, Metropole Square, 2 On Yiu Street, Shek Mun, Sha Tin; and \uf09f Conference Room, Tai Yuen Community Hall, Tai Yuen Estate, Tai Po."
+    }
+]
